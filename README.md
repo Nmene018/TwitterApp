@@ -25,5 +25,5 @@ The following **bonus** features are implemented:
 
 <img src="https://media.giphy.com/media/fDYGZ7hOfTS9CUJ94V/giphy-downsized-large.gif" width=250><br>
 
-<img src="https://gph.is/g/ZxWQzkO" width=250><br>
+<img src="https://media.giphy.com/media/fDYGZ7hOfTS9CUJ94V/giphy.gif" width=250><br>
 
