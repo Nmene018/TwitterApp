@@ -21,6 +21,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://media.giphy.com/media/crPHGtt3WkfPk56D7t/giphy.gif" width=250><br>
+https://media.giphy.com/media/crPHGtt3WkfPk56D7t/giphy.gif
 
 
