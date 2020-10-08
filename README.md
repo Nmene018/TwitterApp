@@ -21,5 +21,4 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 https://gph.is/g/ZxWQzkO
-https://media.giphy.com/media/fDYGZ7hOfTS9CUJ94V/giphy.gif
 
