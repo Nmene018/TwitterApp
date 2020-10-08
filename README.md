@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 <iframe src="https://giphy.com/embed/fDYGZ7hOfTS9CUJ94V" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fDYGZ7hOfTS9CUJ94V">via GIPHY</a></p>
 
-<img src="https://giphy.com/embed/fDYGZ7hOfTS9CUJ94V" width=250><br>
+<img src="https://media.giphy.com/media/fDYGZ7hOfTS9CUJ94V/giphy-downsized-large.gif" width=250><br>
 
 <img src="https://media.giphy.com/media/fDYGZ7hOfTS9CUJ94V/source.gif" width=250><br>
 
