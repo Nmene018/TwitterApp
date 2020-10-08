@@ -23,4 +23,6 @@ The following **bonus** features are implemented:
 
 https://media.giphy.com/media/crPHGtt3WkfPk56D7t/giphy.gif
 
+## Notes
 
+- The embedding might have an issue. However, the above gif is on giphy at that link.
