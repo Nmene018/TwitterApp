@@ -21,6 +21,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-a2e58313c922.gif" width=250><br>
+<img src="https://media.giphy.com/media/crPHGtt3WkfPk56D7t/giphy.gif" width=250><br>
 
 
