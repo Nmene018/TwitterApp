@@ -20,6 +20,6 @@ The following **bonus** features are implemented:
 - [X] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-
+<iframe src="https://giphy.com/embed/fDYGZ7hOfTS9CUJ94V" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fDYGZ7hOfTS9CUJ94V">via GIPHY</a></p>
 <img src="https://media.giphy.com/media/crPHGtt3WkfPk56D7t/giphy.gif" width=250><br>
 
