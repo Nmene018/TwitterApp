@@ -20,5 +20,7 @@ The following **bonus** features are implemented:
 - [X] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-https://gph.is/g/ZxWQzkO
+
+<img src="https://im2.ezgif.com/tmp/ezgif-2-a2e58313c922.gif" width=250><br>
+
 
